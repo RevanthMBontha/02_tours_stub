@@ -3,7 +3,7 @@ import Loading from './Loading';
 import Tours from './Tours';
 
 const url =
-  'https://api-for-basic-projects.netlify.app/tours-project/tours-data.json';
+  'https://api-for-basic-projects.netlify.app/tours-project/tours_data.json';
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
